@@ -1,4 +1,4 @@
-####IDENTITY 값 초기화하기
+#### IDENTITY 값 초기화하기
 
 - DBCC CHECKIDENT([테이블명], reseed, [초기화 시킬 값])
 ```
