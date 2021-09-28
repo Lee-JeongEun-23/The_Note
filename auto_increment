@@ -1,2 +1,0 @@
-DBCC CHECKIDENT([테이블명], reseed, [초기화 시킬 값])
-ex) DBCC CHECKIDENT(IPX_USER, reseed, 0) → 1로 초기화 됨
