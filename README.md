@@ -3,7 +3,7 @@
 
 
 #### MSSQL
-1. [IDENTITY 값 초기화하기](#210908.md)
+1. [IDENTITY 값 초기화하기](#https://github.com/Lee-JeongEun-23/The_Note/blob/main/210908.md)
 
 
 #### SPRING
